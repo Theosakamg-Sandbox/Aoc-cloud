@@ -1,0 +1,8 @@
+tact_aoc:
+    resource: "@TactAocBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+dory: 
+    resource: "@TactDoryBundle/Resources/config/routing.yml"
+    prefix: /

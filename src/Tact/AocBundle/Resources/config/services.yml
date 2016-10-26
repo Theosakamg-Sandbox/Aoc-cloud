@@ -1,0 +1,4 @@
+services:
+#    tact_aoc.example:
+#        class: Tact\AocBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
